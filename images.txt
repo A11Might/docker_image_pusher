@@ -1,2 +1,1 @@
-quay.io/prometheus/node-exporter:v1.0.1
-quay.io/brancz/kube-rbac-proxy:v0.8.0
+influxdb:1.8.10
