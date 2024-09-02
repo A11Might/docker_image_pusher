@@ -1,1 +1,2 @@
-grafana/grafana:7.3.4
+quay.io/prometheus/node-exporter:v1.0.1
+quay.io/brancz/kube-rbac-proxy:v0.8.0
