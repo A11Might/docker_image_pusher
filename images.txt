@@ -1,1 +1,1 @@
-docker.io/naison/kubevpn:v2.2.18
+docker.io/harryliu888/audio-notes:latest
