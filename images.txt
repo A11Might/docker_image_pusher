@@ -1,1 +1,1 @@
-docker.io/harryliu888/audio-notes:latest
+docker.io/neosmemo/memos:stable
