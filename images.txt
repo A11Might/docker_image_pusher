@@ -1,1 +1,1 @@
-docker.io/neosmemo/memos:stable
+docker.io/glanceapp/glance:latest
