@@ -1,1 +1,1 @@
-okteto/maven:3
+openjdk:8-jre
