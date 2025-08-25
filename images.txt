@@ -1,1 +1,1 @@
-openjdk:17-ea-slim
+okteto/okteto:3.10.1
