@@ -1,3 +1,1 @@
-getmeili/meilisearch:v1.11.3
-flomp/wanderer-db
-flomp/wanderer-web
+docker.io/library/maven:3.8.4-openjdk-17-slim
