@@ -1,2 +1,1 @@
-golang:1.23.0
-alpine:latest
+docker.io/library/java:8-jre
