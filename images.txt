@@ -1,1 +1,1 @@
-docker.io/library/java:8-jre
+docker.io/library/node:18-alpine
