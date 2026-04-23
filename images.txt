@@ -1,1 +1,1 @@
-docker.io/library/node:18-alpine
+neo4j:5.26.25-community-ubi10
