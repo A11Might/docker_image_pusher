@@ -1,5 +1,1 @@
-codeberg.org/readeck/readeck:latest
-docker.n8n.io/n8nio/n8n
-couchdb:latest
-neosmemo/memos:stable
-glanceapp/glance
+docker.io/library/golang:alpine3.21
