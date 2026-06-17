@@ -1,1 +1,1 @@
-nginx:alpine
+codeberg.org/readeck/readeck-nightly:latest
