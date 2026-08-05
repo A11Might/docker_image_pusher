@@ -1,1 +1,5 @@
-arizephoenix/phoenix
+node:24-bookworm-slim
+node:22-alpine
+golang:1.26-alpine
+alpine:3.21
+pgvector/pgvector:pg17
