@@ -1,5 +1,2 @@
-node:24-bookworm-slim
-node:22-alpine
-golang:1.26-alpine
-alpine:3.21
-pgvector/pgvector:pg17
+ghcr.io/multica-ai/multica-backend:v0.4.20
+ghcr.io/multica-ai/multica-web:v0.4.20
