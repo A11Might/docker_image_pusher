@@ -1,1 +1,1 @@
-paradedb/paradedb:v0.22.2-pg17
+codeberg.org/readeck/readeck:latest
